@@ -1,16 +1,29 @@
 Table of contents
 =================
+<!-- TOC -->
 
-<!--ts-->
-* [Cicero's Set](#ciceros-set)
-	* [Cicero's Boots](#ciceros-boots)
-	* [Cicero's Boots](#ciceros-clothes)
-	* [Cicero's Boots](#ciceros-gloves)
-	* [Cicero's Boots](#ciceros-hat)
-* [Jester's Set](#jesters-set)
+- [**Cicero's Set**](#ciceros-set)
+	- [**Cicero's Boots**](#ciceros-boots)
+	- [**Cicero's Clothes**](#ciceros-clothes)
+	- [**Cicero's Gloves**](#ciceros-gloves)
+	- [**Cicero's Hat**](#ciceros-hat)
+- [**Jester's Set**](#jesters-set)
+	- [**Cotton Jester's Boots**](#cotton-jesters-boots)
+	- [**Cotton Jester's Clothes - Red**](#cotton-jesters-clothes---red)
+	- [**Cotton Jester's Gloves**](#cotton-jesters-gloves)
+	- [**Cotton Jester's Hat - Red**](#cotton-jesters-hat---red)
+- [**Nightingale Set**](#nightingale-set)
+	- [**Nightingale Boots**](#nightingale-boots)
+	- [**Nightingale Cuirass**](#nightingale-cuirass)
+	- [**Nightingale Gloves**](#nightingale-gloves)
+	- [**Nightingale Hood**](#nightingale-hood)
+- [**Shrouded Ancient Set**](#shrouded-ancient-set)
+	- [**Shrouded Ancient Boots**](#shrouded-ancient-boots)
+	- [**Shrouded Ancient Cowl - Masked**](#shrouded-ancient-cowl---masked)
+	- [**Shrouded Ancient Cuirass**](#shrouded-ancient-cuirass)
+	- [**Shrouded Ancient Gloves**](#shrouded-ancient-gloves)
 
-<!--te-->
-
+<!-- /TOC -->
 
 # **Cicero's Set**
 
@@ -23,7 +36,7 @@ Value | 23 | 23
 Weight | 1 | 1
 
 
-### **Enchantments:**
+**Enchantments**
 Original | New
 --------|--------
 +0.5 Muffle | TBD
@@ -38,7 +51,7 @@ Armor | 5 | 5
 Value | 25 | 25
 Weight | 2 | 2
 
-### **Enchantments:**
+**Enchantments**
 Original | New
 -------- | --------
 +15% One-Handed Damage | TBD
@@ -53,7 +66,7 @@ Armor | 4 | 4
 Value | 12 | 12
 Weight | 1 | 1
 
-### **Enchantments:**
+**Enchantments**
 Original | New
 -------- | --------
 +10 One-Handed Expertise | TBD
@@ -69,7 +82,7 @@ Armor | 5 | 5
 Value | 9 | 9
 Weight | 0.5 | 0.5
 
-### **Enchantments:**
+**Enchantments**
 Original | New
 -------- | --------
 +35% Sneaking | TBD
@@ -86,7 +99,7 @@ Armor | 4 | 4
 Value | 23 | 23
 Weight | 1 | 1
 
-### **Enchantments:**
+**Enchantments**
 Original | New
 -------- | --------
 +0.5 Muffle | TBD
@@ -101,7 +114,7 @@ Armor | 5 | 5
 Value | 25 | 25
 Weight | 2 | 2
 
-### **Enchantments:**
+**Enchantments**
 Original | New
 -------- | --------
 +10% One-Handed Damage | TBD
@@ -116,7 +129,7 @@ Armor | 4 | 4
 Value | 12 | 12
 Weight | 1 | 1
 
-### **Enchantments:**
+**Enchantments**
 Original | New
 -------- | --------
 +10 One-Handed Expertise | TBD
@@ -132,7 +145,7 @@ Armor | 5 | 5
 Value | 9 | 9
 Weight | 0.5 | 0.5
 
-### **Enchantments:**
+**Enchantments**
 Original | New
 -------- | --------
 +30% Sneaking | TBD
@@ -149,7 +162,7 @@ Armor | 10 | 10
 Value | 250 | 250
 Weight | 2 | 2
 
-### **Enchantments:**
+**Enchantments**
 Original | New
 -------- | --------
 +0.5 Muffle | +1 Muffle
@@ -167,7 +180,7 @@ Body Slots | 32 - Body | 32 - Body, 40 - Tail, 46 - Unamed
 Value | 900 | 900
 Weight | 6 | 6
 
-### **Enchantments:**
+**Enchantments**
 Original | New
 -------- | --------
 +75 Stamina | +100% Poison Resist
@@ -184,7 +197,7 @@ Armor | 10 | 10
 Value | 220 | 220
 Weight | 1 | 1
 
-### **Enchantments:**
+**Enchantments**
 Original | New
 -------- | --------
 +18 Lockpicking Skill | +18 Lockpicking Skill
@@ -202,7 +215,7 @@ Armor | 16 | 16
 Value | 450 | 450
 Weight | 2 | 2
 
-### **Enchantments:**
+**Enchantments**
 Original | New
 -------- | --------
 +15% Illusion Cost Reduction | +20% Illusion Cost Reduction
@@ -222,7 +235,7 @@ Armor | 12 | 12
 Value | 250 | 250
 Weight | 1 | 1
 
-### **Enchantments:**
+**Enchantments**
 Original | New
 -------- | --------
 +0.5 Muffle | +1 Muffle
@@ -239,7 +252,7 @@ Armor | 15 | 15
 Value | 255 | 255
 Weight | 1 | 1
 
-### **Enchantments:**
+**Enchantments**
 Original | New
 -------- | --------
 +15% Illusion Cost Reduction | +20% Illusion Cost Reduction
@@ -256,7 +269,7 @@ Armor | 33 | 33
 Value | 550 | 550
 Weight | 5 | 5
 
-### **Enchantments:**
+**Enchantments**
 Original | New
 -------- | --------
 +100% Poison Resist | +100% Poison Resist
@@ -273,7 +286,7 @@ Armor | 12 | 12
 Value | 170 | 170
 Weight | 1 | 1
 
-### **Enchantments:**
+**Enchantments**
 Original | New
 -------- | --------
 +30 One-Handed Expertise | +30 One-Handed Expertise
