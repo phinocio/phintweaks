@@ -19,11 +19,15 @@ Simply changes the constant night eye effect into a toggleable Night Vision powe
 
 ## Ultimate Skyrim
 
-- Load `ToggleableAetheriumHelmetNightVision - Ultimate Skyrim.esp` after `UltimateSkyrim.esp`, re-run reqtificator.
+- MO2 left side order doesn't matter.
+- Load `ToggleableAetheriumHelmetNightVision - Ultimate Skyrim.esp` after `UltimateSkyrim.esp`
+- Re-run reqtificator (**required**)
 
 ## Requiem 
 
-- Load `ToggleableAetheriumHelmetNightVision.esp` after `Requiem.esp`, re-run reqtificator. 
+- MO2 left side order doesn't matter.
+- Load `ToggleableAetheriumHelmetNightVision.esp` after `Requiem.esp`
+- Re-run reqtificator (**required**)
 
 Tested with v3.0.2 and v3.4
 

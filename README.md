@@ -44,9 +44,9 @@ For Ultimate Skyrim v4.0.7. Adds Requiem resistances to some armors that were mi
 
 # [Wet And Cold - Non Enchantable Cloaks](https://github.com/phinocio/phintweaks/tree/master/Wet%20And%20Cold%20-%20Non%20Enchantable%20Cloaks)
 
-> Current Version: **v1.0.0**
+> Current Version: **v1.0.1**
 
-Made with Ultimate Skyrim in mind. Can be used with Requiem no problem (technically only requires W&C). Simply adds keyword to the cloaks making them unenchantable. Requires W&C.
+Made with Ultimate Skyrim in mind. Can be used with Requiem no problem (technically only requires `Wet and Cold`). Simply adds keyword to the cloaks making them unenchantable. Requires W&C.
 
 - [README](https://github.com/phinocio/phintweaks/blob/master/Wet%20And%20Cold%20-%20Non%20Enchantable%20Cloaks/README.md)
 - [CHANGELOG](https://github.com/phinocio/phintweaks/blob/master/Wet%20And%20Cold%20-%20Non%20Enchantable%20Cloaks/CHANGELOG.md)

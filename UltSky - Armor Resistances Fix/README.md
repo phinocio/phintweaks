@@ -33,7 +33,9 @@ For Ultimate Skyrim v4.0.7. Adds Requiem resistances to some armors that were mi
 
 ## Ultimate Skyrim
 
-- Load `UltSky - Armor Resistances Fix.esp` after `UltimateSkyrim.esp`, re-run reqtificator.
+- MO2 left side order doesn't matter.
+- Load `UltSky - Armor Resistances Fix.esp` after `UltimateSkyrim.esp`
+- Re-run reqtificator (**required**). 
 
 ## Requiem - not supported
 
@@ -41,7 +43,7 @@ For Ultimate Skyrim v4.0.7. Adds Requiem resistances to some armors that were mi
 
 # Compatibility
 
-- Only intended for UtlSky v4.0.7. 
+- Only intended for UltSky v4.0.7. 
 
 # Known Issues
 
