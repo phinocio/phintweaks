@@ -9,7 +9,7 @@ A collection of tweaks I've made for Ultimate Skyrim and/or Requiem.
 - [DB & TG Armor Overhaul](#db--tg-armor-overhaul)
 - [Toggleable Aetherium Helmet Night Vision](#toggleable-aetherium-helmet-night-vision)
 - [UltSky - Armor Resistances Fix](#ultsky---armor-resistances-fix)
-- [Wet And Cold - Non Enchantable Cloaks](#wet-and-cold---non-enchantable-cloaks)
+- [Wet and Cold - Non Enchantable Cloaks](#wet-and-cold---non-enchantable-cloaks)
 
 <!-- /TOC -->
 
