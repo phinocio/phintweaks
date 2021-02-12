@@ -1,3 +1,9 @@
+# UltSky - Armor Resistances Fix
+
+For Ultimate Skyrim v4.0.7. Adds Requiem resistances to some armors that were missing it. Details below.
+
+# Table Of Contents
+
 <!-- TOC -->
 
 - [Ahzidal's Cuirass of Retribution](#ahzidals-cuirass-of-retribution)

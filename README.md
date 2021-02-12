@@ -22,14 +22,17 @@ ___
 
 > Current Version: **v1.0.0**
 
+Changes the Aetherium Helmet's constant Night Vision into a toggleable power. Power is added on equip, and removed on unequip.
+
 - [README](https://github.com/phinocio/phintweaks/blob/master/Toggleable%20Aetherium%20Helmet%20Night%20Vision/README.md)
 - [CHANGELOG](https://github.com/phinocio/phintweaks/blob/master/Toggleable%20Aetherium%20Helmet%20Night%20Vision/CHANGELOG.md)
 
-___
 
 # [UltSky - Armor Resistances Fix](https://github.com/phinocio/phintweaks/tree/master/US%20-%20Armor%20Resistances%20Fix)
 
 > Current Version: **v1.1.0**
+
+For Ultimate Skyrim v4.0.7. Adds Requiem resistances to some armors that were missing it
 
 - [README](https://github.com/phinocio/phintweaks/blob/master/US%20-%20Armor%20Resistances%20Fix/README.md)
 - [CHANGELOG](https://github.com/phinocio/phintweaks/blob/master/US%20-%20Armor%20Resistances%20Fix/CHANGELOG.md)
