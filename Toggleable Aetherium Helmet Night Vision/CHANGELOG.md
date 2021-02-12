@@ -1,5 +1,4 @@
 ## Current Version: v1.0.0
-___
 
 # Table of Contents
 <!-- TOC -->

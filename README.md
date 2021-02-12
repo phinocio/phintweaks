@@ -19,5 +19,5 @@ ___
 
 # Toggleable Aetherium Helmet Night Vision
 
-- [README](phinocio/phintweaks/Toggleable Aetherium Helmet Night Vision/README.md)
-- [CHANGELOG](phinocio/phintweaks/Toggleable Aetherium Helmet Night Vision/CHANGELOG.md)
+- [README](https://github.com/phinocio/phintweaks/blob/master/Toggleable%20Aetherium%20Helmet%20Night%20Vision/README.md)
+- [CHANGELOG](https://github.com/phinocio/phintweaks/blob/master/Toggleable%20Aetherium%20Helmet%20Night%20Vision/CHANGELOG.md)
