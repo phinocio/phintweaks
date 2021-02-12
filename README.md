@@ -30,6 +30,7 @@ Discontinued. No longer in progress. Keeping folder for historical info on what 
 Changes the Aetherium Helmet's constant Night Vision into a toggleable power. Power is added on equip, and removed on unequip.
 
 - [README](https://github.com/phinocio/phintweaks/blob/master/Toggleable%20Aetherium%20Helmet%20Night%20Vision/README.md)
+- [INSTALLATION](https://github.com/phinocio/phintweaks/blob/master/Toggleable%20Aetherium%20Helmet%20Night%20Vision/README.md#installation)
 - [CHANGELOG](https://github.com/phinocio/phintweaks/blob/master/Toggleable%20Aetherium%20Helmet%20Night%20Vision/CHANGELOG.md)
 
 
@@ -39,14 +40,16 @@ Changes the Aetherium Helmet's constant Night Vision into a toggleable power. Po
 
 For Ultimate Skyrim v4.0.7. Adds Requiem resistances to some armors that were missing it.
 
-- [README](https://github.com/phinocio/phintweaks/blob/master/US%20-%20Armor%20Resistances%20Fix/README.md)
-- [CHANGELOG](https://github.com/phinocio/phintweaks/blob/master/US%20-%20Armor%20Resistances%20Fix/CHANGELOG.md)
+- [README](https://github.com/phinocio/phintweaks/blob/master/UltSky%20-%20Armor%20Resistances%20Fix/README.md)
+- [INSTALLATION](https://github.com/phinocio/phintweaks/blob/master/UltSky%20-%20Armor%20Resistances%20Fix/README.md#installation)
+- [CHANGELOG](https://github.com/phinocio/phintweaks/blob/master/UltSky%20-%20Armor%20Resistances%20Fix/CHANGELOG.md)
 
-# [Wet And Cold - Non Enchantable Cloaks](https://github.com/phinocio/phintweaks/tree/master/Wet%20And%20Cold%20-%20Non%20Enchantable%20Cloaks)
+# [Wet and Cold - Non Enchantable Cloaks](https://github.com/phinocio/phintweaks/tree/master/Wet%20and%20Cold%20-%20Non%20Enchantable%20Cloaks)
 
 > Current Version: **v1.0.1**
 
 Made with Ultimate Skyrim in mind. Can be used with Requiem no problem (technically only requires `Wet and Cold`). Simply adds keyword to the cloaks making them unenchantable. Requires W&C.
 
-- [README](https://github.com/phinocio/phintweaks/blob/master/Wet%20And%20Cold%20-%20Non%20Enchantable%20Cloaks/README.md)
-- [CHANGELOG](https://github.com/phinocio/phintweaks/blob/master/Wet%20And%20Cold%20-%20Non%20Enchantable%20Cloaks/CHANGELOG.md)
+- [README](https://github.com/phinocio/phintweaks/blob/master/Wet%20and%20Cold%20-%20Non%20Enchantable%20Cloaks/README.md)
+- [INSTALLATION](https://github.com/phinocio/phintweaks/blob/master/Wet%20and%20Cold%20-%20Non%20Enchantable%20Cloaks/README.md#installation)
+- [CHANGELOG](https://github.com/phinocio/phintweaks/blob/master/Wet%20and%20Cold%20-%20Non%20Enchantable%20Cloaks/CHANGELOG.md)
