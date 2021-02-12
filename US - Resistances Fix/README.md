@@ -1,8 +1,6 @@
-## Table of Contents
-
 <!-- TOC -->
 
-- [Table of Contents](#table-of-contents)
+- [Ahzidal's Cuirass of Retribution](#ahzidals-cuirass-of-retribution)
 - [Bonemold Cuirass](#bonemold-cuirass)
 - [Bonemold Improved Cuirass](#bonemold-improved-cuirass)
 - [Bonemold Pauldroned Cuirass](#bonemold-pauldroned-cuirass)
@@ -19,6 +17,13 @@
 <!-- /TOC -->
 
 ___
+
+## Ahzidal's Cuirass of Retribution
+
+- Ranged Tier 2
+- Crush Tier 2
+- Pierce Tier 3
+- Slash Tier 1
 
 ## Bonemold Cuirass
 
