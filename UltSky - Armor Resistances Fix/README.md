@@ -1,5 +1,5 @@
 # UltSky - Armor Resistances Fix
-> Current Version: **v1.1.0**
+> Current Version: **v1.1.1**
 
 For Ultimate Skyrim v4.0.7. Adds Requiem resistances to some armors that were missing it. Details below.
 
