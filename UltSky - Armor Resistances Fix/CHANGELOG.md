@@ -1,5 +1,3 @@
-## Current Version: v1.1.0
-
 # Table of Contents
 
 <!-- TOC -->
@@ -12,8 +10,14 @@ ___
 
 <!-- /TOC -->
 
+# v1.1.1
+> 2021-02-12
+
+- Renamed to `UltSky` from `US`
+
 # v1.1.0
 >2021-02-12
+
 - Added resistance values to Ahzidal's Armor of Retribution.
 - Added a changelog.
 
