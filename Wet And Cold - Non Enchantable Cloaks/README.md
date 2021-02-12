@@ -1,7 +1,7 @@
 # Wet And Cold - Non Enchantable Cloaks
 > Current Version: **v1.0.0**
 
-Made with Ultimate Skyrim in mind. Can be used with Requiem no problem (technically only requires W&C). Simply adds keyword to the cloaks making them unenchantable. Requires W&C. 
+The Complete Crafting Reqtified mod changes Cloaks of Skyrim and Winter Is Coming Cloaks cloaks to be non-enchantable. This makes Wet and Cold cloaks in line with that. Simply adds MagicDisallowEnchanting [KYWD:000C27BD] keyword to the cloaks.
 
 # Table Of Contents
 
