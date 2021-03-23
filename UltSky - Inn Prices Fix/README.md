@@ -26,7 +26,7 @@ For Ultimate Skyrim v4.0.7. Fixes inn prices not being what they should be.
 
 ## Requiem - not supported
 
-- Not meant for Requiem alone, use at your own risk. Literally only changes the `RoomCost` global value to 10.
+- Not meant for Requiem alone, use at your own risk. Literally only changes the `RoomCost` global value to 10 and removes the `Constant` flag.
 
 # Compatibility
 

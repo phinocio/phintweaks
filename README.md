@@ -59,7 +59,7 @@ Made with Ultimate Skyrim in mind. Can be used with Requiem no problem (technica
 
 > Current Version: **v1.0.0**
 
-Simply changes `RoomCost` global to 10 to fix prices.
+Simply changes `RoomCost` global to 10 and removes the `Constant` flag to fix prices.
 
 - [README](https://github.com/phinocio/phintweaks/blob/master/UltSky%20-%20Inn%20Prices%20Fix/README.md)
 - [INSTALLATION](https://github.com/phinocio/phintweaks/blob/master/UltSky%20-%20Inn%20Prices%20Fix/README.md#installation)
