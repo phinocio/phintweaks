@@ -7,12 +7,9 @@ For Ultimate Skyrim v4.0.7. Fixes inn prices not being what they should be.
 
 <!-- TOC -->
 
-- [UltSky - Armor Resistances Fix](#ultsky---armor-resistances-fix)
-- [Table Of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Compatibility](#compatibility)
 - [Known Issues](#known-issues)
-- [Changes](#changes)
 
 <!-- /TOC -->
 
