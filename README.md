@@ -10,6 +10,7 @@ A collection of tweaks I've made for Ultimate Skyrim and/or Requiem.
 - [Toggleable Aetherium Helmet Night Vision](#toggleable-aetherium-helmet-night-vision)
 - [UltSky - Armor Resistances Fix](#ultsky---armor-resistances-fix)
 - [Wet and Cold - Non Enchantable Cloaks](#wet-and-cold---non-enchantable-cloaks)
+- [UltSky - Inn Prices Fix](#ultsky---inn-prices-fix)
 
 <!-- /TOC -->
 
