@@ -60,6 +60,6 @@ Made with Ultimate Skyrim in mind. Can be used with Requiem no problem (technica
 
 Simply changes `RoomCost` global to 10 to fix prices.
 
-- [README](https://github.com/phinocio/phintweaks/blob/master/Wet%20and%20Cold%20-%20Non%20Enchantable%20Cloaks/README.md)
-- [INSTALLATION](https://github.com/phinocio/phintweaks/blob/master/Wet%20and%20Cold%20-%20Non%20Enchantable%20Cloaks/README.md#installation)
-- [CHANGELOG](https://github.com/phinocio/phintweaks/blob/master/Wet%20and%20Cold%20-%20Non%20Enchantable%20Cloaks/CHANGELOG.md)
+- [README](https://github.com/phinocio/phintweaks/blob/master/UltSky%20-%20Inn%20Prices%20Fix/README.md)
+- [INSTALLATION](https://github.com/phinocio/phintweaks/blob/master/UltSky%20-%20Inn%20Prices%20Fix/README.md#installation)
+- [CHANGELOG](https://github.com/phinocio/phintweaks/blob/master/UltSky%20-%20Inn%20Prices%20Fix/CHANGELOG.md)
